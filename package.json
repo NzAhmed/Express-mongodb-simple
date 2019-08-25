@@ -1,0 +1,23 @@
+{
+  "name": "express-mongodb-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NzAhmed/Express-mongodb-simple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NzAhmed/Express-mongodb-simple/issues"
+  },
+  "homepage": "https://github.com/NzAhmed/Express-mongodb-simple#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.10"
+  }
+}
